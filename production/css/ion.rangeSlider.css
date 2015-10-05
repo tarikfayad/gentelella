@@ -6,6 +6,11 @@
 /* =====================================================================================================================
 // RangeSlider */
 
+.range_slider_container {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
 .irs {
     position: relative; display: block;
     -webkit-touch-callout: none;
